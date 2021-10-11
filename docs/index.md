@@ -41,16 +41,11 @@ We provide short samples of the generation results. And a comparison of the same
   <tr>
       <td style="text-align: center; vertical-align: middle;">Example 4</td>
 
-      <td><audio controls=""><source src="./assets/audio_samples/demo5.mp3" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audio_samples/demo5_noPed.mp3" type="audio/mpeg" /></audio></td>
-  </tr>
-    
-  <tr>
-      <td style="text-align: center; vertical-align: middle;">Example 5</td>
-
       <td><audio controls=""><source src="./assets/audio_samples/demo6.mp3" type="audio/mpeg" /></audio></td>
       <td><audio controls=""><source src="./assets/audio_samples/demo6_noPed.mp3" type="audio/mpeg" /></audio></td>
   </tr>
+    
+  
 </table>
       
       

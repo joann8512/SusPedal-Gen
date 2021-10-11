@@ -16,48 +16,36 @@ We provide short samples of the generation results. And a comparison of the same
     <td style="text-align: center; vertical-align: middle;">With Pedal</td>
     <td style="text-align: center; vertical-align: middle;">Without Pedal</td>
   </tr>
-   
+
   <tr>
       <td style="text-align: center; vertical-align: middle;">Example 1</td>
-
-      <td><audio controls=""><source src="./assets/audio_samples/demo1.mp3" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audio_samples/demo1_noPed.mp3" type="audio/mpeg" /></audio></td>
-  </tr>
-
-  <tr>
-      <td style="text-align: center; vertical-align: middle;">Example 2</td>
 
       <td><audio controls=""><source src="./assets/audio_samples/demo2.mp3" type="audio/mpeg" /></audio></td>
       <td><audio controls=""><source src="./assets/audio_samples/demo2_noPed.mp3" type="audio/mpeg" /></audio></td>
   </tr>
   
   <tr>
-      <td style="text-align: center; vertical-align: middle;">Example 3</td>
+      <td style="text-align: center; vertical-align: middle;">Example 2</td>
 
       <td><audio controls=""><source src="./assets/audio_samples/demo3.mp3" type="audio/mpeg" /></audio></td>
       <td><audio controls=""><source src="./assets/audio_samples/demo3_noPed.mp3" type="audio/mpeg" /></audio></td>
   </tr>
     
   <tr>
-      <td style="text-align: center; vertical-align: middle;">Example 4</td>
+      <td style="text-align: center; vertical-align: middle;">Example 3</td>
 
       <td><audio controls=""><source src="./assets/audio_samples/demo4.mp3" type="audio/mpeg" /></audio></td>
       <td><audio controls=""><source src="./assets/audio_samples/demo4_noPed.mp3" type="audio/mpeg" /></audio></td>
   </tr>
     
   <tr>
-      <td style="text-align: center; vertical-align: middle;">Example 5</td>
-
-      <td><audio controls=""><source src="./assets/audio_samples/demo5.mp3" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audio_samples/demo5_noPed.mp3" type="audio/mpeg" /></audio></td>
-  </tr>
-    
-  <tr>
-      <td style="text-align: center; vertical-align: middle;">Example 6</td>
+      <td style="text-align: center; vertical-align: middle;">Example 4</td>
 
       <td><audio controls=""><source src="./assets/audio_samples/demo6.mp3" type="audio/mpeg" /></audio></td>
       <td><audio controls=""><source src="./assets/audio_samples/demo6_noPed.mp3" type="audio/mpeg" /></audio></td>
   </tr>
+    
+  
 </table>
       
       
