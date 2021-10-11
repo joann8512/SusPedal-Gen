@@ -32,12 +32,7 @@ We provide short samples of the generation results. And a comparison of the same
       <td><audio controls=""><source src="./assets/audio_samples/demo2.mp3" type="audio/mpeg" /></audio></td>
   </tr>
   
-  <tr>
-      <td style="text-align: center; vertical-align: middle;">Example 3</td>
-
-      <td><audio controls=""><source src="./assets/audio_samples/demo3.mp3" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audio_samples/demo3_noPed.mp3" type="audio/mpeg" /></audio></td>
-  </tr>
+  
 </table>
       
       
