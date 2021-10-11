@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Learning to Generate Piano Music With Sustain Pedals
 
-You can use the [editor on GitHub](https://github.com/joann8512/Pedal-CPtransformer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the demo page for the paper **“Learning to Generate Piano Music With Sustain Pedals”**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Abstract
 
-### Markdown
+Current existing research on piano sustain pedal has not been a widely investigated area. Neither has sustain pedal information in symbolic domain. It was not until the last four years did research papers regarding piano pedals had been published. This work demonstrates the possibility of automatic piano music generation with information of sustain pedal included. Based on the work of Yeh et al., the Compound Word Transformer, we modified the model such that it is adapted to generate piano music with sustain pedals included. The AILabs1k7 dataset, consisted of 1,748 pop piano music collected from the Internet, was used for the task. While the work is done by using second-hand sustain pedal information as training data, the result shows hope for further improvement and importance of the involvement of sustain pedal in tasks of piano performance generations. Details on dataset choice, as well as how the training data is prepared for the task will be explained.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Audio Samples
 
-```markdown
-Syntax highlighted code block
+We provide short samples of the generation results. And a comparison of the same generated clip with/without pedals will also be provided.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joann8512/Pedal-CPtransformer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ <iframe src="assets/demo1.mp3" allow="autoplay" style="display:none" id="demo1"></iframe>
