@@ -8,33 +8,35 @@ Current existing research on piano sustain pedal has not been a widely investiga
 
 ### Audio Samples
 
-We provide short samples of the generation results. And a comparison of the same generated clip with/without pedals will also be provided. test
+We provide short samples of the generation results. And a comparison of the same generated clip with/without pedals will also be provided. update 3:47
 
 <table class="VA-example" style="width:100%" cellspacing="0" cellpadding="0">
   <tr>
     <td style="text-align: center; vertical-align: middle;"></td>
-  	<td style="text-align: center; vertical-align: middle;">With Pedal</td>
+    <td style="text-align: center; vertical-align: middle;">With Pedal</td>
     <td style="text-align: center; vertical-align: middle;">Without Pedal</td>
   </tr>
-
   <tr>
 
-  <td style="text-align: center; vertical-align: middle;">Example 1</td>
-  <td><audio controls=""><source src="./assets/audio_samples/demo1.mp3" type="audio/mpeg" /></audio></td>
+      <td style="text-align: center; vertical-align: middle;">Example 1</td>
+      <td><audio controls=""><source src="./assets/audio_samples/demo1.mp3" type="audio/mpeg" /></audio></td>
       
-  <td><audio controls=""><source src="./assets/audio_samples/demo1.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/demo1.mp3" type="audio/mpeg" /></audio></td>
+  <\tr>
 
+  <tr>
+      <td style="text-align: center; vertical-align: middle;">Example 2</td>
+
+      <td><audio controls=""><source src="./assets/audio_samples/demo2.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/demo2.mp3" type="audio/mpeg" /></audio></td>
+  <\tr>
   
-  <td style="text-align: center; vertical-align: middle;">Example 2</td>
+  <tr>
+      <td style="text-align: center; vertical-align: middle;">Example 3</td>
 
-  <td><audio controls=""><source src="./assets/audio_samples/demo2.mp3" type="audio/mpeg" /></audio></td>
-  <td><audio controls=""><source src="./assets/audio_samples/demo2.mp3" type="audio/mpeg" /></audio></td>
-      
-  <td style="text-align: center; vertical-align: middle;">Example 3</td>
-
-  <td><audio controls=""><source src="./assets/audio_samples/demo3.mp3" type="audio/mpeg" /></audio></td>
-  <td><audio controls=""><source src="./assets/audio_samples/demo3_noPed.mp3" type="audio/mpeg" /></audio></td>
-    
+      <td><audio controls=""><source src="./assets/audio_samples/demo3.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/demo3_noPed.mp3" type="audio/mpeg" /></audio></td>
   </tr>
-
-</table>
+<\table>
+      
+      
