@@ -21,14 +21,14 @@ We provide short samples of the generation results. And a comparison of the same
       <td style="text-align: center; vertical-align: middle;">Example 1</td>
 
       <td><audio controls=""><source src="./assets/audio_samples/demo1.mp3" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audio_samples/demo1.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/demo1_noPed.mp3" type="audio/mpeg" /></audio></td>
   </tr>
 
   <tr>
       <td style="text-align: center; vertical-align: middle;">Example 2</td>
 
       <td><audio controls=""><source src="./assets/audio_samples/demo2.mp3" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audio_samples/demo2.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/demo2_noPed.mp3" type="audio/mpeg" /></audio></td>
   </tr>
   
   <tr>
