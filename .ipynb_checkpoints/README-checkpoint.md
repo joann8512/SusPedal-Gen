@@ -1,4 +1,4 @@
-# Pedal-CPtransformer
+# SusPedal-Gen
 
 This is the official repository of **Learning to Generate Piano Music With Sustain Pedals**
 
