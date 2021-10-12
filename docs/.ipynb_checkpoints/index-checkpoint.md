@@ -8,7 +8,7 @@ Current existing research on piano sustain pedal has not been a widely investiga
 
 ### Audio Samples
 
-We provide short samples of the generation results. And a comparison of the same generated clip with/without pedals will also be provided.
+Here are some examples of the generation result! For each example, both versions of with/without pedals are provided as a reference for how the pedals are affecting the sounding.
 
 <table class="VA-example" style="width:100%" cellspacing="0" cellpadding="0">
   <tr>
@@ -49,3 +49,5 @@ We provide short samples of the generation results. And a comparison of the same
 </table>
       
       
+### Contact
+* Joann Ching: jching9@gatech.edu<br/>Former Research Assistant @ Academia Sinica / MSMT student @ Center for Music Technology, Georgia Institute of Technology
