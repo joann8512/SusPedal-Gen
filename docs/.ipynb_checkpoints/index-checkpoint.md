@@ -50,4 +50,4 @@ Here are some examples of the generation result! For each example, both versions
       
       
 ### Contact
-* Joann Ching: jching9@gatech.edu<br/>Former Research Assistant @ Academia Sinica / MSMT student @ Center for Music Technology, Georgia Institute of Technology
+* Joann Ching<br/>Former Research Assistant @ Academia Sinica<br/>MSMT student @ Center for Music Technology, Georgia Institute of Technology<br/>jching9@gatech.edu
