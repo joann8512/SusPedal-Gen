@@ -20,4 +20,6 @@ The dataset used in this project, AIlabs.tw Pop1K7, can be found [here](https://
 
 2. Other requirements:
 
+    ```
     pip install -r requirements.txt
+    ```
