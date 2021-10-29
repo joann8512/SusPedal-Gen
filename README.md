@@ -2,7 +2,7 @@
 
 This is the official repository of **Learning to Generate Piano Music With Sustain Pedals**
 
-* [Demo Page](https://joann8512.github.io/Pedal-CPtransformer)
+* [Demo Page](https://joann8512.github.io/SusPedal-Gen/)
 
 ## Dataset
 The dataset used in this project, AIlabs.tw Pop1K7, can be found [here](https://drive.google.com/file/d/1qw_tVUntblIg4lW16vbpjLXVndkVtgDe/view?usp=sharing).

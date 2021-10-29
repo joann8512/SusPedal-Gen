@@ -9,6 +9,7 @@ Current existing research on piano sustain pedal has not been a widely investiga
 ### Audio Samples
 
 Here are some examples of the generation result! For each example, both versions of with/without pedals are provided as a reference for how the pedals are affecting the sounding.
+> Please wear headphones for best result :)
 
 <table class="VA-example" style="width:100%" cellspacing="0" cellpadding="0">
   <tr>
