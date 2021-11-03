@@ -5,7 +5,7 @@ This is the official repository of **Learning to Generate Piano Music With Susta
 * [Demo Page](https://joann8512.github.io/SusPedal-Gen/)
 
 ## Dataset
-The dataset used in this project, AIlabs.tw Pop1K7, can be found [here](https://drive.google.com/file/d/1qw_tVUntblIg4lW16vbpjLXVndkVtgDe/view?usp=sharing).
+The dataset used in this project, *AIlabs.tw Pop1K7*, can be found [here](https://drive.google.com/file/d/1qw_tVUntblIg4lW16vbpjLXVndkVtgDe/view?usp=sharing).
 
 ## Environment
 
@@ -23,3 +23,13 @@ The dataset used in this project, AIlabs.tw Pop1K7, can be found [here](https://
     ```
     pip install -r requirements.txt
     ```
+
+## Usage
+```
+Pre-trained models are not included in this repository
+```
+### Data Preparation
+- To be completed...
+
+### Train/Inference
+- Change the MODE to `train` or `inference` on lines 36 & 37
