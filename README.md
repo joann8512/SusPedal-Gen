@@ -36,7 +36,6 @@ Pre-trained models are not included in this repository
 
 
 ## Cite This Paper
-{% raw %}
 ```
 @article{
 		 {SusPedal},
@@ -46,4 +45,3 @@ Pre-trained models are not included in this repository
 		 year = {2021}
 		  }
 ```
-{% endraw %}
