@@ -52,3 +52,17 @@ Here are some examples of the generation result! For each example, both versions
       
 ### Contact
 * Joann Ching<br/>Former Research Assistant @ Academia Sinica<br/>MSMT student @ Center for Music Technology, Georgia Institute of Technology<br/>jching9@gatech.edu
+
+
+### Cite This Paper
+{% raw %}
+```
+@article{
+		 {SusPedal},
+		 author = {Ching, Joann and Yi-Hsuan, Yang},
+		 title = {Learning to Generate Piano Music With Sustain Pedals},
+		 booktitle = {arXiv preprint arXiv:2111.01216},
+		 year = {2021}
+		  }
+```
+{% endraw %}

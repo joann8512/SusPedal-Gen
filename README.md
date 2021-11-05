@@ -33,3 +33,17 @@ Pre-trained models are not included in this repository
 
 ### Train/Inference
 - Change the MODE to `train` or `inference` on lines 36 & 37
+
+
+## Cite This Paper
+{% raw %}
+```
+@article{
+		 {SusPedal},
+		 author = {Ching, Joann and Yi-Hsuan, Yang},
+		 title = {Learning to Generate Piano Music With Sustain Pedals},
+		 booktitle = {arXiv preprint arXiv:2111.01216},
+		 year = {2021}
+		  }
+```
+{% endraw %}
