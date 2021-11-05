@@ -38,10 +38,10 @@ Pre-trained models are not included in this repository
 ## Cite This Paper
 ```
 @article{
-		 {SusPedal},
-		 author = {Ching, Joann and Yi-Hsuan, Yang},
-		 title = {Learning to Generate Piano Music With Sustain Pedals},
-		 booktitle = {arXiv preprint arXiv:2111.01216},
-		 year = {2021}
-		  }
+	{SusPedal},
+	author = {Ching, Joann and Yi-Hsuan, Yang},
+	title = {Learning to Generate Piano Music With Sustain Pedals},
+	booktitle = {arXiv preprint arXiv:2111.01216},
+	year = {2021}
+	}
 ```
