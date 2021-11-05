@@ -43,5 +43,5 @@ Pre-trained models are not included in this repository
 	title = {Learning to Generate Piano Music With Sustain Pedals},
 	booktitle = {arXiv preprint arXiv:2111.01216},
 	year = {2021}
-	}
+}
 ```

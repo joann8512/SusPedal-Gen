@@ -58,11 +58,11 @@ Here are some examples of the generation result! For each example, both versions
 {% raw %}
 ```
 @article{
-		 {SusPedal},
-		 author = {Ching, Joann and Yi-Hsuan, Yang},
-		 title = {Learning to Generate Piano Music With Sustain Pedals},
-		 booktitle = {arXiv preprint arXiv:2111.01216},
-		 year = {2021}
-		  }
+	{SusPedal},
+	author = {Ching, Joann and Yi-Hsuan, Yang},
+	title = {Learning to Generate Piano Music With Sustain Pedals},
+	booktitle = {arXiv preprint arXiv:2111.01216},
+	year = {2021}
+}
 ```
 {% endraw %}
