@@ -4,9 +4,7 @@ import os
 
 import math
 import time
-import glob
 import datetime
-import random
 import pickle
 import json
 import numpy as np
@@ -83,12 +81,10 @@ def write_midi(words, path_outfile, word2event):
     all_notes = []
     all_pedals = []
 
-    cnt_error = 0
     for i in range(len(words)):
         vals = []
         for kidx, key in enumerate(class_keys):
             vals.append(word2event[key][words[i][kidx]])
-        # print(vals)
 
         if vals[4] == 'Metrical':
             if vals[3] == 'Bar':
